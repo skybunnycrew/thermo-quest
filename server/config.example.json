@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "teacherPassword": "change-me",
+  "room": "thermo-quest",
+  "gameDir": ".."
+}

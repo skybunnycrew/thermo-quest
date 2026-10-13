@@ -1,0 +1,5 @@
+# Replace the address below with your server's domain name.
+# Caddy fetches and renews the HTTPS certificate by itself.
+thermo.your-school.edu {
+	reverse_proxy localhost:8080
+}
