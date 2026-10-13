@@ -1,0 +1,12 @@
+# Private to your server: never committed, never touched by git pull
+server/config.json
+server/chat-history.json
+server/recordings/
+server/node_modules/
+server/package-lock.json
+
+# Course files and scratch work
+uploads/
+screens/
+.thumbnail
+.DS_Store
